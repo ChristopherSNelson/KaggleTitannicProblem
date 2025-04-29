@@ -1,11 +1,6 @@
 # KaggleTitannicProblem
 Kaggle python code
 
-2017
-firsttry.py score 0.76
-used modelFormula='Survived~Sex+Age+C(Pclass)+Deck+SibSp+Parch
-fit with OLS.from_formula from statsmodels
-
 2023
 XGboost score 0.71
 in training hit 0.82 (overtrained apparently)
