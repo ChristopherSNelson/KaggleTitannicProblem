@@ -1,5 +1,5 @@
 # KaggleTitannicProblem
-Kaggle python code - Note the linear model scores higher than the XGboost approach.
+Kaggle python code
 
 2017
 firsttry.py score 0.76
